@@ -1,0 +1,48 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.topbar{
+    background-color: #5D5C61;
+    padding: 18px 0px;
+    margin: 0px;
+    font-weight: 600;
+    
+}
+
+.header{
+    font-size: 20px;
+    padding:18px;
+
+}
+
+.header:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+body{
+    background-color: #B1A296;
+    margin: 0px;
+}
+
+.image{
+    width: 400px;
+    height: 400px;
+}
+
+.food-wrapper{
+    text-align: center;
+}
+
+a{
+    font-size: 17px;
+    text-decoration: none;
+    color: black;
+}
+
+.food-wrapper p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
